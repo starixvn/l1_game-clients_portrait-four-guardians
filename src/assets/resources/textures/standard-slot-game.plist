@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{688,124}</string>
+                <string>{684,124}</string>
                 <key>spriteSourceSize</key>
                 <string>{688,124}</string>
                 <key>textureRect</key>
-                <string>{{779,324},{688,124}}</string>
+                <string>{{779,324},{684,124}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -663,7 +663,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:736d696bfcf77abee5cd60953cddd683:cfa898aa5df7d39c43ffe741057436c6:3c13b940d52c931d845dbb5c93af3d66$</string>
+            <string>$TexturePacker:SmartUpdate:574184dc39175880ea30ab98cf05c8ea:2fc20725d165316bc55a578d0a987166:3c13b940d52c931d845dbb5c93af3d66$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.webp</string>
         </dict>
