@@ -2,28 +2,28 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "685d946c-e94b-48fc-b202-9a8dded3ee76",
+  "uuid": "9b93afe0-b8ee-4571-9515-da874d81c934",
   "files": [
     ".json",
-    ".png"
+    ".webp"
   ],
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "685d946c-e94b-48fc-b202-9a8dded3ee76@6c48a",
-      "displayName": "text-big-win",
+      "uuid": "9b93afe0-b8ee-4571-9515-da874d81c934@6c48a",
+      "displayName": "text-bonus-game",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "9b93afe0-b8ee-4571-9515-da874d81c934",
+        "isUuid": true,
+        "visible": false,
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
-        "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "685d946c-e94b-48fc-b202-9a8dded3ee76",
-        "visible": false
+        "anisotropy": 0
       },
       "ver": "1.0.22",
       "imported": true,
@@ -34,21 +34,21 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "685d946c-e94b-48fc-b202-9a8dded3ee76@f9941",
-      "displayName": "text-big-win",
+      "uuid": "9b93afe0-b8ee-4571-9515-da874d81c934@f9941",
+      "displayName": "text-bonus-game",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
         "trimThreshold": 1,
         "rotated": false,
-        "offsetX": -2.5,
-        "offsetY": -1,
-        "trimX": 57,
-        "trimY": 14,
-        "width": 500,
-        "height": 156,
-        "rawWidth": 619,
-        "rawHeight": 182,
+        "offsetX": -1,
+        "offsetY": -5,
+        "trimX": 22,
+        "trimY": 17,
+        "width": 316,
+        "height": 56,
+        "rawWidth": 362,
+        "rawHeight": 80,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
@@ -60,17 +60,17 @@
         "meshType": 0,
         "vertices": {
           "rawPosition": [
-            -250,
-            -78,
+            -158,
+            -28,
             0,
-            250,
-            -78,
+            158,
+            -28,
             0,
-            -250,
-            78,
+            -158,
+            28,
             0,
-            250,
-            78,
+            158,
+            28,
             0
           ],
           "indexes": [
@@ -82,38 +82,38 @@
             3
           ],
           "uv": [
-            57,
-            168,
-            557,
-            168,
-            57,
-            12,
-            557,
-            12
+            22,
+            63,
+            338,
+            63,
+            22,
+            7,
+            338,
+            7
           ],
           "nuv": [
-            0.09208400646203554,
-            0.06593406593406594,
-            0.8998384491114702,
-            0.06593406593406594,
-            0.09208400646203554,
-            0.9230769230769231,
-            0.8998384491114702,
-            0.9230769230769231
+            0.06077348066298342,
+            0.0875,
+            0.9337016574585635,
+            0.0875,
+            0.06077348066298342,
+            0.7875,
+            0.9337016574585635,
+            0.7875
           ],
           "minPos": [
-            -250,
-            -78,
+            -158,
+            -28,
             0
           ],
           "maxPos": [
-            250,
-            78,
+            158,
+            28,
             0
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "685d946c-e94b-48fc-b202-9a8dded3ee76@6c48a",
+        "imageUuidOrDatabaseUri": "9b93afe0-b8ee-4571-9515-da874d81c934@6c48a",
         "atlasUuid": "",
         "trimType": "auto"
       },
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "685d946c-e94b-48fc-b202-9a8dded3ee76@6c48a"
+    "redirect": "9b93afe0-b8ee-4571-9515-da874d81c934@6c48a"
   }
 }

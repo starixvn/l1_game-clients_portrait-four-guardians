@@ -180,7 +180,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -318,8 +318,8 @@
       "__uuid__": "69346936-b3fa-4242-a117-7b993777cf45",
       "__expectedType__": "sp.SkeletonData"
     },
-    "defaultSkin": "default",
-    "defaultAnimation": "disable",
+    "defaultSkin": "",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -589,7 +589,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -686,7 +686,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 104.48,
+      "width": 90,
       "height": 40
     },
     "_anchorPoint": {
@@ -717,9 +717,9 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 249,
+      "g": 224,
+      "b": 67,
       "a": 255
     },
     "_string": "999",

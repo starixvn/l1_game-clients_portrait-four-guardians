@@ -1,195 +1,104 @@
 
 exportAtlas.webp
-size: 2048,2048
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-win00
-  rotate: false
-  xy: 106, 300
-  size: 140, 140
-  orig: 140, 140
+Layer 1 copy
+  rotate: true
+  xy: 8, 570
+  size: 139, 130
+  orig: 139, 130
   offset: 0, 0
   index: -1
-win01
+eff/winning_effect_anim_1
   rotate: false
-  xy: 295, 15
-  size: 140, 140
-  orig: 140, 140
+  xy: 175, 354
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win02
-  rotate: false
-  xy: 150, 588
-  size: 140, 140
-  orig: 140, 140
+eff/winning_effect_anim_10
+  rotate: true
+  xy: 531, 180
+  size: 166, 165
+  orig: 166, 165
   offset: 0, 0
   index: -1
-win03
-  rotate: false
-  xy: 294, 596
-  size: 140, 140
-  orig: 140, 140
+eff/winning_effect_anim_2
+  rotate: true
+  xy: 212, 8
+  size: 172, 171
+  orig: 172, 171
   offset: 0, 0
   index: -1
-win04
+eff/winning_effect_anim_3
   rotate: false
-  xy: 438, 596
-  size: 140, 140
-  orig: 140, 140
+  xy: 359, 187
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win05
+eff/winning_effect_anim_4
   rotate: false
-  xy: 582, 596
-  size: 140, 140
-  orig: 140, 140
+  xy: 556, 7
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win06
+eff/winning_effect_anim_5
   rotate: false
-  xy: 685, 147
-  size: 140, 140
-  orig: 140, 140
+  xy: 384, 15
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win07
+eff/winning_effect_anim_6
   rotate: false
-  xy: 596, 448
-  size: 140, 140
-  orig: 140, 140
+  xy: 181, 182
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win08
+eff/winning_effect_anim_7
   rotate: false
-  xy: 729, 3
-  size: 140, 140
-  orig: 140, 140
+  xy: 347, 359
+  size: 170, 171
+  orig: 170, 171
   offset: 0, 0
   index: -1
-win09
+eff/winning_effect_anim_8
   rotate: false
-  xy: 689, 291
-  size: 140, 140
-  orig: 140, 140
+  xy: 9, 225
+  size: 171, 171
+  orig: 171, 171
   offset: 0, 0
   index: -1
-win10
+eff/winning_effect_anim_9
   rotate: false
-  xy: 726, 592
-  size: 140, 140
-  orig: 140, 140
+  xy: 3, 397
+  size: 170, 171
+  orig: 170, 171
   offset: 0, 0
   index: -1
-win11
-  rotate: false
-  xy: 12, 732
-  size: 140, 140
-  orig: 140, 140
+eff/winning_effect_background
+  rotate: true
+  xy: 2, 2
+  size: 222, 209
+  orig: 222, 209
   offset: 0, 0
   index: -1
-win12
+eff/winning_effect_light
   rotate: false
-  xy: 156, 740
-  size: 140, 140
-  orig: 140, 140
+  xy: 463, 506
+  size: 143, 152
+  orig: 143, 152
   offset: 0, 0
   index: -1
-win13
+starParticle
   rotate: false
-  xy: 542, 304
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win14
-  rotate: false
-  xy: 300, 740
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win15
-  rotate: false
-  xy: 444, 740
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win16
-  rotate: false
-  xy: 250, 296
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win17
-  rotate: false
-  xy: 439, 9
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win18
-  rotate: false
-  xy: 394, 164
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win19
-  rotate: false
-  xy: 16, 444
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win20
-  rotate: false
-  xy: 538, 158
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win21
-  rotate: false
-  xy: 306, 452
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win22
-  rotate: false
-  xy: 450, 452
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win23
-  rotate: false
-  xy: 6, 588
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win24
-  rotate: false
-  xy: 160, 444
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win26
-  rotate: false
-  xy: 398, 308
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
-win25
-  rotate: false
-  xy: 583, 3
-  size: 140, 140
-  orig: 140, 140
+  xy: 524, 661
+  size: 31, 31
+  orig: 31, 31
   offset: 0, 0
   index: -1
