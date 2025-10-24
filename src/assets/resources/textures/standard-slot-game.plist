@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{195,63}</string>
                 <key>textureRect</key>
-                <string>{{205,919},{195,55}}</string>
+                <string>{{397,701},{195,55}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>history-jackpot-vi-VN.png</key>
             <dict>
@@ -114,13 +114,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{1,-2}</string>
                 <key>spriteSize</key>
-                <string>{59,483}</string>
+                <string>{52,432}</string>
                 <key>spriteSourceSize</key>
-                <string>{59,483}</string>
+                <string>{60,436}</string>
                 <key>textureRect</key>
-                <string>{{505,701},{59,483}}</string>
+                <string>{{129,923},{52,432}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -144,13 +144,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,-4}</string>
                 <key>spriteSize</key>
-                <string>{59,479}</string>
+                <string>{52,402}</string>
                 <key>spriteSourceSize</key>
-                <string>{59,479}</string>
+                <string>{60,436}</string>
                 <key>textureRect</key>
-                <string>{{505,762},{59,479}}</string>
+                <string>{{563,701},{52,402}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -210,7 +210,7 @@
                 <key>spriteSourceSize</key>
                 <string>{150,150}</string>
                 <key>textureRect</key>
-                <string>{{365,783},{70,108}}</string>
+                <string>{{454,783},{70,108}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -225,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{100,100}</string>
                 <key>textureRect</key>
-                <string>{{482,823},{78,78}}</string>
+                <string>{{563,865},{78,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -360,7 +360,7 @@
                 <key>spriteSourceSize</key>
                 <string>{150,150}</string>
                 <key>textureRect</key>
-                <string>{{397,701},{80,106}}</string>
+                <string>{{454,701},{80,106}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -405,7 +405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{100,100}</string>
                 <key>textureRect</key>
-                <string>{{402,893},{78,80}}</string>
+                <string>{{526,783},{78,80}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -663,7 +663,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f2a61037c0bc0da63c229db87b9c21c3:8c9051f140498516f64cce25a8ef4104:3c13b940d52c931d845dbb5c93af3d66$</string>
+            <string>$TexturePacker:SmartUpdate:4f884d3ce20c2780650b4a2929fae736:e1504a4799cf54e1c3f3449d4ae7dfd9:3c13b940d52c931d845dbb5c93af3d66$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.webp</string>
         </dict>
