@@ -8216,7 +8216,7 @@
       "__id__": 266
     },
     "asset": {
-      "__uuid__": "1eb4b78a-5227-4256-847b-a14811a779ff",
+      "__uuid__": "2ed65f9a-8dbb-4771-9096-cf707c0a37b0",
       "__expectedType__": "cc.Prefab"
     },
     "fileId": "d0MWXhxg9E766vtRKlpfB+",
@@ -8228,7 +8228,7 @@
   },
   {
     "__type__": "cc.PrefabInstance",
-    "fileId": "a3kH3Kf6xEBYqpHi15Xrna",
+    "fileId": "c38yoX52lDxruo45Ar+oCJ",
     "prefabRootNode": null,
     "mountedChildren": [],
     "mountedComponents": [],
@@ -8256,7 +8256,7 @@
     "propertyPath": [
       "_name"
     ],
-    "value": "auto-spin-dialog-container"
+    "value": "auto-spin-dialog-portrait-container"
   },
   {
     "__type__": "cc.TargetInfo",
