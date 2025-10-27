@@ -1,22 +1,13 @@
 {
-"skeleton": {
-	"hash": "i+od3AnTHozQwctl2ps1G1OcJDQ",
-	"spine": "3.8.99",
-	"x": -489.35,
-	"y": -275.26,
-	"width": 978.7,
-	"height": 550.52,
-	"images": "D:/MYWORKFOLDER/design/portrait-slot/LLQP/decor/ime",
-	"audio": ""
-},
+"skeleton": { "hash": "Gg0xz4ULeYgZMyK5J7oAzzxquTU", "spine": "3.8.99", "images": "./ime/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "bone", "parent": "root", "scaleX": 1.2744, "scaleY": 1.2744 },
 	{ "name": "bone2", "parent": "root", "scaleX": 1.2744, "scaleY": 1.2744 }
 ],
 "slots": [
-	{ "name": "builua", "bone": "bone", "attachment": "builua/spark100", "blend": "screen" },
-	{ "name": "builua2", "bone": "bone2", "attachment": "builua/spark100", "blend": "screen" }
+	{ "name": "builua", "bone": "bone", "blend": "screen" },
+	{ "name": "builua2", "bone": "bone2", "blend": "screen" }
 ],
 "skins": [
 	{
@@ -122,8 +113,7 @@
 				"builua/spark096": { "width": 768, "height": 432 },
 				"builua/spark097": { "width": 768, "height": 432 },
 				"builua/spark098": { "width": 768, "height": 432 },
-				"builua/spark099": { "width": 768, "height": 432 },
-				"builua/spark100": { "width": 768, "height": 432 }
+				"builua/spark099": { "width": 768, "height": 432 }
 			},
 			"builua2": {
 				"builua/spark000": { "width": 768, "height": 432 },
@@ -225,8 +215,7 @@
 				"builua/spark096": { "width": 768, "height": 432 },
 				"builua/spark097": { "width": 768, "height": 432 },
 				"builua/spark098": { "width": 768, "height": 432 },
-				"builua/spark099": { "width": 768, "height": 432 },
-				"builua/spark100": { "width": 768, "height": 432 }
+				"builua/spark099": { "width": 768, "height": 432 }
 			}
 		}
 	}
@@ -336,8 +325,7 @@
 					{ "time": 3.0333, "name": "builua/spark091" },
 					{ "time": 3.0667, "name": "builua/spark092" },
 					{ "time": 3.1, "name": "builua/spark093" },
-					{ "time": 3.1333, "name": "builua/spark094" },
-					{ "time": 3.1667, "name": "builua/spark100" }
+					{ "time": 3.1333, "name": "builua/spark094" }
 				]
 			},
 			"builua2": {
@@ -346,7 +334,7 @@
 					{ "time": 1.8, "color": "ffffff00" },
 					{ "time": 1.9, "color": "ffffffff", "curve": "stepped" },
 					{ "time": 4.7, "color": "ffffffff" },
-					{ "time": 4.9667, "color": "ffffff00" }
+					{ "time": 4.9333, "color": "ffffff00" }
 				],
 				"attachment": [
 					{ "time": 1.8, "name": "builua/spark000" },
@@ -443,8 +431,7 @@
 					{ "time": 4.8333, "name": "builua/spark091" },
 					{ "time": 4.8667, "name": "builua/spark092" },
 					{ "time": 4.9, "name": "builua/spark093" },
-					{ "time": 4.9333, "name": "builua/spark094" },
-					{ "time": 4.9667, "name": "builua/spark100" }
+					{ "time": 4.9333, "name": "builua/spark094" }
 				]
 			}
 		}
